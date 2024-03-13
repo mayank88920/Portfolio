@@ -7,7 +7,7 @@ import { ProjectsComponent } from './Pages/projects/projects.component';
 
 export const routes: Routes = [
     {
-        path:'../Portfolio/Portfolio/',
+        path:'Portfolio/Portfolio/',
         component: HomeComponent,
         pathMatch: 'full',
       },
