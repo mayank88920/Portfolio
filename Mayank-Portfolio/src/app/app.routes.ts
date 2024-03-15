@@ -7,7 +7,7 @@ import { ProjectsComponent } from './Pages/projects/projects.component';
 
 export const routes: Routes = [
     {
-        path:'',
+        path:'/',
         component: HomeComponent,
         pathMatch: 'full',
       },
